@@ -42,7 +42,7 @@ void main()
             {
              case 1:
                   reserve(num);
-                  n++;
+                  num++;
                   break;
              case 2:
                   cancel();
